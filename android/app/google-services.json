@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "170348600881",
+    "firebase_url": "https://fpi-question-bank-default-rtdb.firebaseio.com",
+    "project_id": "fpi-question-bank",
+    "storage_bucket": "fpi-question-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170348600881:android:1c1c5b979e0e78c2863f10",
+        "android_client_info": {
+          "package_name": "com.example.fpi_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170348600881-gmksn3rdo9r5amb2aml1sdlb2fodiol9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb9fjPJ1BMleTcXk1IAzRjb-oYedYonhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170348600881-gmksn3rdo9r5amb2aml1sdlb2fodiol9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170348600881:android:fc75e88f8bdd9f1d863f10",
+        "android_client_info": {
+          "package_name": "com.example.phone_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170348600881-gmksn3rdo9r5amb2aml1sdlb2fodiol9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb9fjPJ1BMleTcXk1IAzRjb-oYedYonhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170348600881-gmksn3rdo9r5amb2aml1sdlb2fodiol9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
